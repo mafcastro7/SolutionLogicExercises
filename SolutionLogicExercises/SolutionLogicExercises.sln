@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "30", "30", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{D7C359FD-28C7-4242-AE77-6C7E2480F950}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "35", "35", "{1C560335-7BB5-482D-A0BC-89AC24493220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixExercise", "MatrixExercise\MatrixExercise.csproj", "{F8FD6B2A-D714-4643-8412-0D8E0D21FBFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{0857617F-C41B-432A-87B9-7C084B648445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentalTheoremOfArithmetic", "FundamentalTheoremOfArithmetic\FundamentalTheoremOfArithmetic.csproj", "{AADB397C-7B10-47E2-884F-A33A8BC2C722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FD6B2A-D714-4643-8412-0D8E0D21FBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FD6B2A-D714-4643-8412-0D8E0D21FBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FD6B2A-D714-4643-8412-0D8E0D21FBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FD6B2A-D714-4643-8412-0D8E0D21FBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0857617F-C41B-432A-87B9-7C084B648445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0857617F-C41B-432A-87B9-7C084B648445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0857617F-C41B-432A-87B9-7C084B648445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0857617F-C41B-432A-87B9-7C084B648445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADB397C-7B10-47E2-884F-A33A8BC2C722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADB397C-7B10-47E2-884F-A33A8BC2C722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADB397C-7B10-47E2-884F-A33A8BC2C722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADB397C-7B10-47E2-884F-A33A8BC2C722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8FD6B2A-D714-4643-8412-0D8E0D21FBFC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{0857617F-C41B-432A-87B9-7C084B648445} = {D7C359FD-28C7-4242-AE77-6C7E2480F950}
+		{AADB397C-7B10-47E2-884F-A33A8BC2C722} = {1C560335-7BB5-482D-A0BC-89AC24493220}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F35D0FFD-FDB8-49E3-9715-167E7336CE92}
+	EndGlobalSection
+EndGlobal
